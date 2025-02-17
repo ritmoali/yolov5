@@ -2,4 +2,3 @@ train: datasets/images/train
 val: datasets/images/val
 nc: 2
 names: ["window", "door"]
-labels: yolov5/datasets/labels/val
